@@ -61,6 +61,7 @@ The project follows a modular structure with the following workflow:
 ## Prerequisites
 
 - Terraform installed locally.
+- Git installed locally.
 - AWS CLI configured with appropriate credentials.
 - S3 bucket created and accessible for storing state files.
 
