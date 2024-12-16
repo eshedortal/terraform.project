@@ -73,8 +73,8 @@ The project follows a modular structure with the following workflow:
 
 1. Clone this repository:
    ```bash
-   git clone <repository-url>
-   cd <repository-folder>
+   git clone [<repository-url>](https://github.com/eshedortal/terraform.project.git)
+   cd ./terraform.project
 
 2. Initialize and deploy the `network_terraform_project`:
    ```bash
