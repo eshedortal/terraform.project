@@ -74,6 +74,7 @@ server_terraform_project uses the remote state of network_terraform_project to r
 
 Diagram
 
+![Screenshot 2024-12-16 114553](https://github.com/user-attachments/assets/9ed28391-c82e-40ea-a4a8-1f984b73068b)
 
 
 Prerequisites
