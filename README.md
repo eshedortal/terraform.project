@@ -1,4 +1,6 @@
 # Terraform Project
+## Diagram
+![Screenshot 2024-12-16 114553](https://github.com/user-attachments/assets/9ed28391-c82e-40ea-a4a8-1f984b73068b)
 
 ## Overview
 This repository contains a Terraform project structured into two distinct modules:
@@ -53,11 +55,6 @@ The project follows a modular structure with the following workflow:
 
 ### Remote State Linking:
 - `server_terraform_project` uses the remote state of `network_terraform_project` to retrieve necessary outputs.
-
----
-
-## Diagram
-![Screenshot 2024-12-16 114553](https://github.com/user-attachments/assets/9ed28391-c82e-40ea-a4a8-1f984b73068b)
 
 ---
 
