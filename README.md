@@ -1,6 +1,6 @@
 # Terraform Project
 ## Diagram
-![Screenshot 2024-12-16 114553](https://github.com/user-attachments/assets/9ed28391-c82e-40ea-a4a8-1f984b73068b)
+![Picture1](https://github.com/user-attachments/assets/b6106bff-a90f-45db-b2b8-25de9cb05943)
 
 ## Overview
 This repository contains a Terraform project structured into two distinct modules:
